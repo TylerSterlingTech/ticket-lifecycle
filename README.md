@@ -6,10 +6,6 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -57,7 +53,7 @@ Karen Jones has filled out another ticket, asking "When is the hardware refresh?
 <img src="https://i.imgur.com/PhpYAfQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Jane Doe, an agent working with the osTicketing system, logs in to see what tickets have came in so far today.
+Jane Doe, an agent working with the osTicketing system, logs in to see what tickets have been submitted so far today.
 </p>
 <br />
 
@@ -65,7 +61,7 @@ Jane Doe, an agent working with the osTicketing system, logs in to see what tick
 <img src="https://i.imgur.com/60wTsrf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Jane sees that there are three tickets to be served, other than the default ticket that was sent to notify the agents and admin that the osTicket ticketing system has been installed. Jane knows that she should look into each of these three tickets and assign them to the appropriate agent. FOr the tickets that she assigns to herself, she will send communication to the ticket issuer, work the issue, and come to a resolution. Jane decides to begin with Karen Jone's ticket #310354, as it has emergency priority.
+Jane sees that there are three tickets to be served, other than the default ticket that was sent to notify the agents and admin that the osTicket ticketing system had been installed. Jane knows that she should look into each of these three tickets and assign them to the appropriate agent. For the tickets that she assigns to herself, she will send communication to the ticket issuer, work the issue, and come to a resolution. Jane decides to begin with Karen Jone's ticket #310354, as it has emergency priority.
 </p>
 <br />
 
@@ -81,7 +77,7 @@ Within Karen's ticket, Jane assigns the ticket to herself.
 <img src="https://i.imgur.com/oJcwtIb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Jane transfers the ticekt from the support department to the system administrators department, because she knows that is the appropriate department to work on issues regarding the mobile banking infrastructure; Jane is a member of the sys admin team.
+Jane transfers the ticekt from the support department to the system administrators department, since she knows that the systems administrators department is the appropriate department to work on issues regarding the mobile banking infrastructure; Jane is a member of the sys admin team.
 </p>
 <br />
 
@@ -89,7 +85,7 @@ Jane transfers the ticekt from the support department to the system administrato
 <img src="https://i.imgur.com/DYa3SDC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Jane sends communication to Karen, notifying her that she is coordinating with her team to resolve the issue. Since the ticket is correctly designated with Sev-A, Jane knows that the ticekt should be resolved within one hour.
+Jane sends communication to Karen, notifying her that she is coordinating with her team to resolve the issue. Since the ticket is correctly designated with Sev-A, Jane knows that the ticekt should be resolved within an hour of the submission.
 </p>
 <br />
 
@@ -97,7 +93,7 @@ Jane sends communication to Karen, notifying her that she is coordinating with h
 <img src="https://i.imgur.com/XcNlZTg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It can be seen that the ticekt has appropriately been assigned to Jane; Jane is working to resolve the issue.
+It can be seen that the ticket has appropriately been assigned to Jane; Jane is working to resolve the issue.
 </p>
 <br />
 
@@ -129,7 +125,7 @@ Jane returns to the two remaining tickets, and decides to look into Ken Jackson'
 <img src="https://i.imgur.com/cmgT8IL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Within Ken's ticket, Jane decides that this ticket would be appropriate for the Level I Support technician John Smith to resolve. She gives John a call for a "warm hand-off" and John agrees to work on the ticket. Jane sends communiction to Ken, stating that John Smith will be looking into this issue to find a resolution.
+Within Ken's ticket, Jane decides that this ticket would be appropriate for the Level I Support technician John Smith to resolve. She gives John a call for a "warm hand-off" and John agrees to work on the ticket. Jane sends communication to Ken, stating that John Smith will be looking into this issue to find a resolution.
 </p>
 <br />
 
@@ -145,7 +141,7 @@ Jane returns to the remaining ticket, and it can be seen that the prior ticket i
 <img src="https://i.imgur.com/QsSvTE1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Jane is able to immediately resolve Karen's ticket, as it is just an inquiry as to whe the hardware refresh is slated to occur. Jane sends communication to Karen, stating that it is slated for Q1. She sets the ticket status to "Resolved".
+Jane is able to immediately resolve Karen's ticket, as it is just an inquiry as to when the hardware refresh is slated to occur. Jane sends communication to Karen, stating that it is slated for Q1. She sets the ticket status to "Resolved".
 </p>
 <br />
 
@@ -161,7 +157,7 @@ John Smith is logging in after speaking with Jane about Ken Jackson's ticket bei
 <img src="https://i.imgur.com/WW3SgT9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Within Ken's ticket, and after looking into the issue, John sends communication to Ken that there was an update last night. John suspects that the update has lead to an issue for Ken, so he rolls back the update so that Ken may begin working as soon as possible; John will work with the support and sys admin team to determine why the update caused this issue. John sets the ticket status to "Resolved".
+Within Ken's ticket, and after looking into the issue, John sends communication to Ken that there was an update last night. John suspects that the update has lead to an issue for Ken, so he rolls back the update so that Ken may begin working as soon as possible; John will work with the support and sys admin teams to determine why the update caused this issue. John sets the ticket status to "Resolved".
 </p>
 <br />
 
