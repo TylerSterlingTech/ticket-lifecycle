@@ -169,7 +169,7 @@ Within Ken's ticket, and after looking into the issue, John sends communication 
 <img src="https://i.imgur.com/2eP9X16.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-All tickets have been successfully resolved for the day.
+All tickets have been successfully resolved for the day, so far.
 </p>
 <br />
 
